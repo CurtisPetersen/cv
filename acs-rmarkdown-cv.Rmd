@@ -17,7 +17,7 @@ keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +202 505 3633
-address: San Francisco · California
+address: Emeryville · California
 updated: no
 urlcolor: blue
 web: andrewcstewart.com
@@ -35,7 +35,7 @@ Data scientist with a strong background in applied research and development in c
 |              |                                                         |
 |-------------:|---------------------------------------------------------|
 | **Expertise** | Data analysis, algorithms, machine learning, statistical modeling, quality control, systems engineering, ETL, data mining, optimization, computational biology
-| **Programming** | R, Python, Rust, C/C++, Java, Git, Docker , AWS |
+| **Programming** | R, Python, Javascript, C/C++, Java, SQL, Git, Docker, AWS |
 | **Software** | RStudio, Jupyer, tidyverse, ggplot2, caret, pandas, numpy, scipy, scikit-learn, shiny, Tableau, Airflow, Spark, H2O, biopython, bioconductor, Stan
 | **Machine Learning** | Classification, regression, clustering, feature engineering, validation |
 | **Statistics** | Bayesian inference, hierarchical modeling, hypothesis testing, power analysis, dimensionality reduction |
@@ -45,13 +45,13 @@ Data scientist with a strong background in applied research and development in c
 
 **Twist Bioscience**, Senior Data Scientist (Bioinformatics) \hfill 2015-Present
 
- * Develop and deploy predictive models to optimize manufacturing processes involving gene design and assembly, DNA fragmentation screening, and clonal colony picking.  Design and analysis of experiments to improve DNA synthesis technology.  Primary architect behind data analytics platform utilizing data warehouse and ETL processes.
+ * Develop and deploy predictive models to optimize manufacturing processes involving gene design and assembly, DNA fragmentation screening, and clonal colony picking.  Design and analysis of experiments in coordination with process chemists to improve DNA synthesis technology.  Primary architect behind data analytics platform utilizing data warehouse and ETL processes.  Supervised data science interns.
 
-**Veracyte**, Scientist (R&D Data Analysis Team) \hfill 2014-2015
+**Veracyte**, Scientist II (R&D, Data Analysis Team) \hfill 2014-2015
 
  * Developed high dimensional classification models for cancer diagnostics.  Provided statistical support for cross-run variability studies and power analysis for experimental designs.  Drove transition from microarray technology to next-generation sequencing based assays through development of high performance automated data analysis pipelines. 
  
-**Smithsonian Institution**, Data Science Specialist (Office of the CIO) \hfill 2013-2014
+**Smithsonian Institution**, Data Scientist (Office of the CIO) \hfill 2013-2014
 
  * Provided analytical support to museum and zoological research scientists in population genetics, phylogenetics, and metagenomics.  Developed genomic analyses on scientific computing clusters, including ensemble machine learning approach for classification of signatures of natural selection in genetic populations.  Coordinated efforts among researchers, information technology offices, and academic and commercial partners to develop scientific computing infrastructure.
  
